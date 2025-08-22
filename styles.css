@@ -1,12 +1,7 @@
 body {
-  min-height: 100vh;
-  display: flex;
-  align-items: center;      /* vertically center */
-  justify-content: center;  /* horizontally center */
   background: #2e2e3a;
   color: #fff;
   font-family: 'Arial', sans-serif;
-  margin: 0;
 }
 .container {
   max-width: 400px;
